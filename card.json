@@ -1,0 +1,4469 @@
+{
+    "items": [
+        {
+            "id": "69bc5bc6d308c64675ca86b6",
+            "name": "Blazing Scorcher",
+            "riftbound_id": "ogn-001-298",
+            "tcgplayer_id": "652771",
+            "collector_number": 1,
+            "attributes": {
+                "energy": 5,
+                "might": 5,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)</p>",
+                "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/15ed971e4029a92b362a81ccadf309fb81e40b81-744x1039.png?accountingTag=RB",
+                "artist": "Envar Studio",
+                "accessibility_text": "Riftbound Unit: Blazing Scorcher. [Accelerate] (You may pay [1][C] as an additional cost to have me enter ready.)"
+            },
+            "tags": [
+                "Dragon",
+                "Noxus"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Blazing Scorcher",
+                "updated_on": "2026-03-19T20:25:42.686902+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc6d308c64675ca86b7",
+            "name": "Brazen Buccaneer",
+            "riftbound_id": "ogn-002-298",
+            "tcgplayer_id": "652772",
+            "collector_number": 2,
+            "attributes": {
+                "energy": 6,
+                "might": 5,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>As you play me, you may discard 1 as an additional cost. If you do, reduce my cost by :rb_energy_2:.</p>",
+                "plain": "As you play me, you may discard 1 as an additional cost. If you do, reduce my cost by :rb_energy_2:.",
+                "flavour": "They called my crew 'scurvy dogs,' and I took that personally."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d481971f7560e7235e7d6934767da18daa019eff-744x1039.png?accountingTag=RB",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Brazen Buccaneer. As you play me, you may discard 1 as an additional cost. If you do, reduce my cost by [2]."
+            },
+            "tags": [
+                "Pirate",
+                "Bilgewater"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Brazen Buccaneer",
+                "updated_on": "2026-03-19T20:25:42.744314+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc6d308c64675ca86b8",
+            "name": "Chemtech Enforcer",
+            "riftbound_id": "ogn-003-298",
+            "tcgplayer_id": "652773",
+            "collector_number": 3,
+            "attributes": {
+                "energy": 2,
+                "might": 2,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Assault 2] (+2 :rb_might: while I'm an attacker.)<br />When you play me, discard 1.</p>",
+                "plain": "[Assault 2] (+2 :rb_might: while I'm an attacker.)When you play me, discard 1.",
+                "flavour": "Knock, knock."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/19dcf211457d9c9c6e9ea0cd32af76c2c92a3160-744x1039.png?accountingTag=RB",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Chemtech Enforcer. [Assault 2] (+2 [S] while I'm an attacker.)\nWhen you play me, discard 1."
+            },
+            "tags": [
+                "Zaun"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Chemtech Enforcer",
+                "updated_on": "2026-03-19T20:25:42.799447+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc6d308c64675ca86b9",
+            "name": "Cleave",
+            "riftbound_id": "ogn-004-298",
+            "tcgplayer_id": "652774",
+            "collector_number": 4,
+            "attributes": {
+                "energy": 1,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Give a unit [Assault 3] this turn. (+3 :rb_might: while it's an attacker.)</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Give a unit [Assault 3] this turn. (+3 :rb_might: while it's an attacker.)",
+                "flavour": "Nobody ever won a war without attacking."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/95d476a1e88ff547fb846149619177bc7e3cea9f-744x1039.png?accountingTag=RB",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Cleave. [Action] (Play on your turn or in showdowns.)\nGive a unit [Assault 3] this turn. (+3 [S] while it's an attacker.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Cleave",
+                "updated_on": "2026-03-19T20:25:42.847985+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc6d308c64675ca86ba",
+            "name": "Disintegrate",
+            "riftbound_id": "ogn-005-298",
+            "tcgplayer_id": "652775",
+            "collector_number": 5,
+            "attributes": {
+                "energy": 4,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 3 to a unit at a battlefield. If this kills it, do this: draw 1.</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Deal 3 to a unit at a battlefield. If this kills it, do this: draw 1.",
+                "flavour": "Ashes, ashes, they all fall down.\" -Annie"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a27374ac3a81f3dfefb43c3c3237c23b4883cb5a-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Disintegrate. [Action] (Play on your turn or in showdowns.)\nDeal 3 to a unit at a battlefield. If this kills it, do this: draw 1."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Disintegrate",
+                "updated_on": "2026-03-27T22:10:09.447517+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc6d308c64675ca86bb",
+            "name": "Flame Chompers",
+            "riftbound_id": "ogn-006-298",
+            "tcgplayer_id": "652776",
+            "collector_number": 6,
+            "attributes": {
+                "energy": 3,
+                "might": 3,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you discard me, you may pay :rb_rune_fury: to play me.</p>",
+                "plain": "When you discard me, you may pay :rb_rune_fury: to play me.",
+                "flavour": "GET 'EM, CHOMPIES!\" -Jinx"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1f6f5ebd18e5daac30d62626fddd785c4b457c2b-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Flame Chompers. When you discard me, you may pay [C] to play me."
+            },
+            "tags": [
+                "Zaun"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Flame Chompers",
+                "updated_on": "2026-03-19T20:25:42.947898+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86bd",
+            "name": "Fury Rune (Alternate Art)",
+            "riftbound_id": "ogn-007a-298",
+            "tcgplayer_id": "652778",
+            "collector_number": 7,
+            "attributes": {
+                "energy": null,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Rune",
+                "supertype": "Basic",
+                "rarity": "Showcase",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "",
+                "plain": "",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/09da06c69d07d4e72dde703737ef167472c715af-1488x2078.png",
+                "artist": "Fairfoul",
+                "accessibility_text": "Riftbound Rune: Fury Rune."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Fury Rune Alternate Art",
+                "updated_on": "2026-03-19T20:25:43.048640+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc6d308c64675ca86bc",
+            "name": "Fury Rune",
+            "riftbound_id": "ogn-007-298",
+            "tcgplayer_id": "652777",
+            "collector_number": 7,
+            "attributes": {
+                "energy": null,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Rune",
+                "supertype": "Basic",
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "",
+                "plain": "",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12bcd0cde5d9ff4640e82945001e9fef863530f1-744x1039.png",
+                "artist": "Greg Ghielmetti & Leah Chen",
+                "accessibility_text": "Riftbound Rune: Fury Rune."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Fury Rune",
+                "updated_on": "2026-03-26T17:26:44.901327+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86be",
+            "name": "Get Excited!",
+            "riftbound_id": "ogn-008-298",
+            "tcgplayer_id": "652779",
+            "collector_number": 8,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Discard 1. Deal its Energy cost as damage to a unit at a battlefield. (Ignore its Power cost.)</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Discard 1. Deal its Energy cost as damage to a unit at a battlefield. (Ignore its Power cost.)",
+                "flavour": "Everybody, panic!\" -Jinx"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2906c932c482af17fbb2979a8c42a6992f95d6a6-744x1039.png",
+                "artist": "Original Force Studio",
+                "accessibility_text": "Riftbound Spell: Get Excited!. [Action] (Play on your turn or in showdowns.)\nDiscard 1. Deal its Energy cost as damage to a unit at a battlefield. (Ignore its Power cost.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Get Excited",
+                "updated_on": "2026-03-19T20:25:43.099463+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86bf",
+            "name": "Hextech Ray",
+            "riftbound_id": "ogn-009-298",
+            "tcgplayer_id": "652780",
+            "collector_number": 9,
+            "attributes": {
+                "energy": 1,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 3 to a unit at a battlefield.</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Deal 3 to a unit at a battlefield.",
+                "flavour": "Destroy. Then Improve. - Viktor"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1e7d12693822c38377ddc8f15db23e2f9b6d560a-744x1039.png",
+                "artist": "League of Legends",
+                "accessibility_text": "Riftbound Spell: Hextech Ray. [Action] (Play on your turn or in showdowns.)\nDeal 3 to a unit at a battlefield."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Hextech Ray",
+                "updated_on": "2026-03-19T20:25:43.148266+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c0",
+            "name": "Legion Rearguard",
+            "riftbound_id": "ogn-010-298",
+            "tcgplayer_id": "652781",
+            "collector_number": 10,
+            "attributes": {
+                "energy": 2,
+                "might": 2,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)</p>",
+                "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)",
+                "flavour": "The last line of offense."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aedece01c7792c689050460db1670e6b9b15b61f-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Legion Rearguard. [Accelerate] (You may pay [1][C] as an additional cost to have me enter ready.)"
+            },
+            "tags": [
+                "Trifarian",
+                "Noxus"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Legion Rearguard",
+                "updated_on": "2026-03-19T20:25:43.196428+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c1",
+            "name": "Magma Wurm",
+            "riftbound_id": "ogn-011-298",
+            "tcgplayer_id": "652782",
+            "collector_number": 11,
+            "attributes": {
+                "energy": 8,
+                "might": 8,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>Other friendly units enter ready.</p>",
+                "plain": "Other friendly units enter ready.",
+                "flavour": "A river of flame in an ocean of ice."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f6565b15f65f538804e6a56623c8aa2eedeffc22-744x1039.png",
+                "artist": "Envar Studio",
+                "accessibility_text": "Riftbound Unit: Magma Wurm. Other friendly units enter ready."
+            },
+            "tags": [
+                "Freljord"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Magma Wurm",
+                "updated_on": "2026-03-19T20:25:43.245489+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c2",
+            "name": "Noxus Hopeful",
+            "riftbound_id": "ogn-012-298",
+            "tcgplayer_id": "652783",
+            "collector_number": 12,
+            "attributes": {
+                "energy": 4,
+                "might": 4,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Legion] — I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)</p>",
+                "plain": "[Legion] — I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)",
+                "flavour": "First to the front, first to glory."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c3bb6f4cb58feeb50e396d12ec9865c5434025af-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Noxus Hopeful. [Legion] — I cost [2] less. (Get the effect if you've played another card this turn.)"
+            },
+            "tags": [
+                "Trifarian",
+                "Noxus"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Noxus Hopeful",
+                "updated_on": "2026-03-19T20:25:43.293480+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c3",
+            "name": "Pouty Poro",
+            "riftbound_id": "ogn-013-298",
+            "tcgplayer_id": "652784",
+            "collector_number": 13,
+            "attributes": {
+                "energy": 2,
+                "might": 2,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)</p>",
+                "plain": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)",
+                "flavour": "Braum takes medicine too, see?\" -Braum"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d541bf3bcb5aa3ad0d48d87f5753569b72ac426f-744x1039.png",
+                "artist": "Caravan Studio",
+                "accessibility_text": "Riftbound Unit: Pouty Poro. [Deflect] (Opponents must pay [A] to choose me with a spell or ability.)"
+            },
+            "tags": [
+                "Poro"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Pouty Poro",
+                "updated_on": "2026-03-19T20:25:43.348021+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c4",
+            "name": "Sky Splitter",
+            "riftbound_id": "ogn-014-298",
+            "tcgplayer_id": "652785",
+            "collector_number": 14,
+            "attributes": {
+                "energy": 8,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />This spell's Energy cost is reduced by the highest Might among units you control.<br />Deal 5 to a unit at a battlefield.</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)This spell's Energy cost is reduced by the highest Might among units you control.Deal 5 to a unit at a battlefield.",
+                "flavour": "Puny mortals!\" -Volibear"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/01faae468720dd5bf5e3fe12ba56c01af70263be-744x1039.png",
+                "artist": "Polar Engine Studio",
+                "accessibility_text": "Riftbound Spell: Sky Splitter. [Action] (Play on your turn or in showdowns.)\nThis spell's Energy cost is reduced by the highest Might among units you control.\nDeal 5 to a unit at a battlefield."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Sky Splitter",
+                "updated_on": "2026-03-19T20:25:43.396330+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c5",
+            "name": "Captain Farron",
+            "riftbound_id": "ogn-015-298",
+            "tcgplayer_id": "652786",
+            "collector_number": 15,
+            "attributes": {
+                "energy": 4,
+                "might": 5,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>Other friendly units here have [Assault]. (+1 :rb_might: while they're attackers.)</p>",
+                "plain": "Other friendly units here have [Assault]. (+1 :rb_might: while they're attackers.)",
+                "flavour": "Foward! Always!"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4c65e2cae6748590f589ad8b26bc5a20c0d770c2-744x1039.png?accountingTag=RB",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Captain Farron. Other friendly units here have [Assault]. (+1 [S] while they're attackers.)"
+            },
+            "tags": [
+                "Trifarian",
+                "Noxus"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Captain Farron",
+                "updated_on": "2026-03-19T20:25:43.448268+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c6",
+            "name": "Dangerous Duo",
+            "riftbound_id": "ogn-016-298",
+            "tcgplayer_id": "652787",
+            "collector_number": 16,
+            "attributes": {
+                "energy": 3,
+                "might": 3,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Legion] — When you play me, give a unit +2 :rb_might: this turn. (Get the effect if you've played another card this turn.)</p>",
+                "plain": "[Legion] — When you play me, give a unit +2 :rb_might: this turn. (Get the effect if you've played another card this turn.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c02ea9e438d407c739276b788e015ac93843651-744x1039.png?accountingTag=RB",
+                "artist": "Envar Studio",
+                "accessibility_text": "Riftbound Unit: Dangerous Duo. [Legion] — When you play me, give a unit +2 [S] this turn. (Get the effect if you've played another card this turn.)"
+            },
+            "tags": [
+                "Mech",
+                "Bandle City"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Dangerous Duo",
+                "updated_on": "2026-03-19T20:25:43.496262+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c7",
+            "name": "Iron Ballista",
+            "riftbound_id": "ogn-017-298",
+            "tcgplayer_id": "652788",
+            "collector_number": 17,
+            "attributes": {
+                "energy": 3,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>This enters exhausted.<br />:rb_exhaust:: Deal 2 to a unit at a battlefield.</p>",
+                "plain": "This enters exhausted.:rb_exhaust:: Deal 2 to a unit at a battlefield.",
+                "flavour": "There's no way they can hit us at this dist-AUGH!"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9b5cfe757b6067994e17e284eba46433880a1461-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Gear: Iron Ballista. This enters exhausted.\n[T]: Deal 2 to a unit at a battlefield."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Iron Ballista",
+                "updated_on": "2026-03-19T20:25:43.544020+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c8",
+            "name": "Noxus Saboteur",
+            "riftbound_id": "ogn-018-298",
+            "tcgplayer_id": "652789",
+            "collector_number": 18,
+            "attributes": {
+                "energy": 3,
+                "might": 3,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>Your opponents' [Hidden] cards can't be revealed here.</p>",
+                "plain": "Your opponents' [Hidden] cards can't be revealed here.",
+                "flavour": "Nothing fails like a perfect plan."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b78f0c822cb984db24ac3f1956cc8c10f8f88b22-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Noxus Saboteur. Your opponents' [Hidden] cards can't be revealed here."
+            },
+            "tags": [
+                "Trifarian",
+                "Noxus"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Noxus Saboteur",
+                "updated_on": "2026-03-19T20:25:43.595219+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86c9",
+            "name": "Raging Soul",
+            "riftbound_id": "ogn-019-298",
+            "tcgplayer_id": "652790",
+            "collector_number": 19,
+            "attributes": {
+                "energy": 4,
+                "might": 4,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>If you've discarded a card this turn, I have [Assault] and [Ganking]. (+1 :rb_might: while I'm an attacker. I can move from battlefield to battlefield.)</p>",
+                "plain": "If you've discarded a card this turn, I have [Assault] and [Ganking]. (+1 :rb_might: while I'm an attacker. I can move from battlefield to battlefield.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/037647d0decc94ff4a5d53b11cf36afe9d849533-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Raging Soul. If you've discarded a card this turn, I have [Assault] and [Ganking]. (+1 [S] while I'm an attacker. I can move from battlefield to battlefield.)"
+            },
+            "tags": [
+                "Spirit",
+                "Shadow Isles"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Raging Soul",
+                "updated_on": "2026-03-19T20:25:43.642347+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86ca",
+            "name": "Scrapyard Champion",
+            "riftbound_id": "ogn-020-298",
+            "tcgplayer_id": "652791",
+            "collector_number": 20,
+            "attributes": {
+                "energy": 5,
+                "might": 5,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Legion] — When you play me, discard 2, then draw 2. (Get the effect if you've played another card this turn.)</p>",
+                "plain": "[Legion] — When you play me, discard 2, then draw 2. (Get the effect if you've played another card this turn.)",
+                "flavour": "Last one standing\" is a bit subjective."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/10f096d2b469fd73329386e5efe88c9bec667d7c-744x1039.png",
+                "artist": "Envar Studio",
+                "accessibility_text": "Riftbound Unit: Scrapyard Champion. [Legion] — When you play me, discard 2, then draw 2. (Get the effect if you've played another card this turn.)"
+            },
+            "tags": [
+                "Mech",
+                "Bandle City"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Scrapyard Champion",
+                "updated_on": "2026-03-19T20:25:43.690624+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86cb",
+            "name": "Sun Disc",
+            "riftbound_id": "ogn-021-298",
+            "tcgplayer_id": "652792",
+            "collector_number": 21,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>:rb_exhaust:: [Legion] — The next unit you play this turn enters ready. (Get the effect if you've played another card this turn.)</p>",
+                "plain": ":rb_exhaust:: [Legion] — The next unit you play this turn enters ready. (Get the effect if you've played another card this turn.)",
+                "flavour": "Those who follow me follow destiny!\" - Azir"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/146d7514f15e6674f471f3aa9c3fadf22c0b634b-744x1039.png",
+                "artist": "Envar Studio",
+                "accessibility_text": "Riftbound Gear: Sun Disc. [T]: [Legion] — The next unit you play this turn enters ready. (Get the effect if you've played another card this turn.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Sun Disc",
+                "updated_on": "2026-03-19T20:25:43.738825+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86cc",
+            "name": "Thermo Beam",
+            "riftbound_id": "ogn-022-298",
+            "tcgplayer_id": "652793",
+            "collector_number": 22,
+            "attributes": {
+                "energy": 5,
+                "might": null,
+                "power": 2
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Kill all gear.</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Kill all gear.",
+                "flavour": "Turn the limiter off, the beam is totally stable.\" - Common Last Words"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/88661e852b864491e6d7f5f087caf4263f61c361-744x1039.png",
+                "artist": "Max Grecke",
+                "accessibility_text": "Riftbound Spell: Thermo Beam. [Action] (Play on your turn or in showdowns.)\nKill all gear."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Thermo Beam",
+                "updated_on": "2026-03-19T20:25:43.786223+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86cd",
+            "name": "Unlicensed Armory",
+            "riftbound_id": "ogn-023-298",
+            "tcgplayer_id": "652794",
+            "collector_number": 23,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it would die this turn, you may pay :rb_rune_fury: to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)</p>",
+                "plain": "Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it would die this turn, you may pay :rb_rune_fury: to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1a80bedd893d9024fc90f108da36b4fd1d496ad6-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Gear: Unlicensed Armory. Discard 1, [E]: Choose a friendly unit. The next time it would die this turn, you may pay [C] to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Unlicensed Armory",
+                "updated_on": "2026-03-19T20:25:43.837715+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86ce",
+            "name": "Void Seeker",
+            "riftbound_id": "ogn-024-298",
+            "tcgplayer_id": "652795",
+            "collector_number": 24,
+            "attributes": {
+                "energy": 3,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 4 to a unit at a battlefield. Draw 1.</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Deal 4 to a unit at a battlefield. Draw 1.",
+                "flavour": "It's a good day for a hunt.\" -Kai'Sa"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5b64b63c6be58ff3c33c7fb3c2dcb168d64e287e-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Void Seeker. [Action] (Play on your turn or in showdowns.)\nDeal 4 to a unit at a battlefield. Draw 1."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Void Seeker",
+                "updated_on": "2026-03-19T20:25:43.896330+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86cf",
+            "name": "Blind Fury",
+            "riftbound_id": "ogn-025-298",
+            "tcgplayer_id": "652796",
+            "collector_number": 25,
+            "attributes": {
+                "energy": 4,
+                "might": null,
+                "power": 2
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Each opponent reveals the top card of their Main Deck. Choose one and banish it, then play it, ignoring its cost. Then recycle the rest.</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Each opponent reveals the top card of their Main Deck. Choose one and banish it, then play it, ignoring its cost. Then recycle the rest.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d74ba4998df9348408f1400090a0b0737c675fbd-744x1039.png?accountingTag=RB",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Spell: Blind Fury. [Action] (Play on your turn or in showdowns.)\nEach opponent reveals the top card of their Main Deck. Choose one and banish it, then play it, ignoring its cost. Then recycle the rest."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Blind Fury",
+                "updated_on": "2026-03-19T20:25:43.944431+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc7d308c64675ca86d0",
+            "name": "Brynhir Thundersong",
+            "riftbound_id": "ogn-026-298",
+            "tcgplayer_id": "652797",
+            "collector_number": 26,
+            "attributes": {
+                "energy": 6,
+                "might": 5,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you play me, opponents can't play cards this turn.</p>",
+                "plain": "When you play me, opponents can't play cards this turn.",
+                "flavour": "Silence. The sky speaks."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/44e805aa0f2928acf1156eef692403df319b333a-744x1039.png?accountingTag=RB",
+                "artist": "Envar Studio",
+                "accessibility_text": "Riftbound Unit: Brynhir Thundersong. When you play me, opponents can't play cards this turn."
+            },
+            "tags": [
+                "Freljord"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Brynhir Thundersong",
+                "updated_on": "2026-03-19T20:25:43.995282+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86d1",
+            "name": "Darius - Trifarian",
+            "riftbound_id": "ogn-027-298",
+            "tcgplayer_id": "652798",
+            "collector_number": 27,
+            "attributes": {
+                "energy": 5,
+                "might": 5,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you play your second card in a turn, give me +2 :rb_might: this turn and ready me.</p>",
+                "plain": "When you play your second card in a turn, give me +2 :rb_might: this turn and ready me.",
+                "flavour": "With overwhelming force."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bf7a4900fd2296972c1305a4707c23860bb0522e-744x1039.png?accountingTag=RB",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Darius, Trifarian. When you play your second card in a turn, give me +2 [S] this turn and ready me."
+            },
+            "tags": [
+                "Trifarian",
+                "Darius",
+                "Noxus"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Darius Trifarian",
+                "updated_on": "2026-03-19T20:25:44.044849+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86d2",
+            "name": "Darius - Trifarian (Alternate Art)",
+            "riftbound_id": "ogn-027a-298",
+            "tcgplayer_id": "652799",
+            "collector_number": 27,
+            "attributes": {
+                "energy": 5,
+                "might": 5,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Showcase",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you play your second card in a turn, give me +2 :rb_might: this turn and ready me.</p>",
+                "plain": "When you play your second card in a turn, give me +2 :rb_might: this turn and ready me.",
+                "flavour": "With overwhelming force."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df878ecc25160bb7e53b254a609ec243e133e8f1-744x1039.png?accountingTag=RB",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Darius, Trifarian. When you play your second card in a turn, give me +2 [S] this turn and ready me."
+            },
+            "tags": [
+                "Trifarian",
+                "Darius",
+                "Noxus"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Darius Trifarian Alternate Art",
+                "updated_on": "2026-03-19T20:25:44.096311+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86d3",
+            "name": "Draven - Showboat",
+            "riftbound_id": "ogn-028-298",
+            "tcgplayer_id": "652800",
+            "collector_number": 28,
+            "attributes": {
+                "energy": 5,
+                "might": 3,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>My Might is increased by your points.</p>",
+                "plain": "My Might is increased by your points.",
+                "flavour": "Let's admire me for a bit."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7600d6cea66e8146ea2202f72cb9035cb44608a3-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Draven, Showboat. My Might is increased by your points."
+            },
+            "tags": [
+                "Draven",
+                "Noxus"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Draven Showboat",
+                "updated_on": "2026-03-25T19:51:24.605772+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86d4",
+            "name": "Falling Star",
+            "riftbound_id": "ogn-029-298",
+            "tcgplayer_id": "652801",
+            "collector_number": 29,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": 2
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>Deal 3 to a unit.<br />Deal 3 to a unit.</p>",
+                "plain": "Deal 3 to a unit.Deal 3 to a unit.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9cf2d2e59e1bf839cdf5c2a77e95f5d1e871788f-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Falling Star. Deal 3 to a unit.\nDeal 3 to a unit."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Falling Star",
+                "updated_on": "2026-03-19T20:25:44.201803+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86d5",
+            "name": "Jinx - Demolitionist",
+            "riftbound_id": "ogn-030-298",
+            "tcgplayer_id": "652802",
+            "collector_number": 30,
+            "attributes": {
+                "energy": 3,
+                "might": 4,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)<br />[Assault 2] (+2 :rb_might: while I'm an attacker.)<br />When you play me, discard 2.</p>",
+                "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)[Assault 2] (+2 :rb_might: while I'm an attacker.)When you play me, discard 2.",
+                "flavour": "I really need a new gun. But don't tell my other guns."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d6cac988aa7798945e550eba6841d3993868c4a4-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Jinx, Demolitionist. [Accelerate] (You may pay [1][C] as an additional cost to have me enter ready.)\n[Assault 2] (+2 [S] while I'm an attacker.)\nWhen you play me, discard 2."
+            },
+            "tags": [
+                "Jinx",
+                "Zaun"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Jinx Demolitionist",
+                "updated_on": "2026-03-19T20:25:44.252194+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86d6",
+            "name": "Jinx - Demolitionist (Alternate Art)",
+            "riftbound_id": "ogn-030a-298",
+            "tcgplayer_id": "652803",
+            "collector_number": 30,
+            "attributes": {
+                "energy": 3,
+                "might": 4,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Showcase",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)<br />[Assault 2] (+2 :rb_might: while I'm an attacker.)<br />When you play me, discard 2.</p>",
+                "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)[Assault 2] (+2 :rb_might: while I'm an attacker.)When you play me, discard 2.",
+                "flavour": "I really need a new gun. But don't tell my other guns."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/60ff1aec7ecb1b11ff89fdb620c6182897a8b402-744x1039.png",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Jinx, Demolitionist. [Accelerate] (You may pay [1][C] as an additional cost to have me enter ready.)\n[Assault 2] (+2 [S] while I'm an attacker.)\nWhen you play me, discard 2."
+            },
+            "tags": [
+                "Jinx",
+                "Zaun"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Jinx Demolitionist Alternate Art",
+                "updated_on": "2026-03-19T20:25:44.303396+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86d7",
+            "name": "Raging Firebrand",
+            "riftbound_id": "ogn-031-298",
+            "tcgplayer_id": "652804",
+            "collector_number": 31,
+            "attributes": {
+                "energy": 6,
+                "might": 4,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you play me, the next spell you play this turn costs :rb_energy_5: less.</p>",
+                "plain": "When you play me, the next spell you play this turn costs :rb_energy_5: less.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9566fc064c098bd7f3540f3074dc6353c7ca5663-744x1039.png",
+                "artist": "JiHun Lee",
+                "accessibility_text": "Riftbound Unit: Raging Firebrand. When you play me, the next spell you play this turn costs [5] less."
+            },
+            "tags": [
+                "Dragon",
+                "Mount Targon"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Raging Firebrand",
+                "updated_on": "2026-03-19T20:25:44.354349+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86d8",
+            "name": "Ravenborn Tome",
+            "riftbound_id": "ogn-032-298",
+            "tcgplayer_id": "652805",
+            "collector_number": 32,
+            "attributes": {
+                "energy": 3,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>:rb_exhaust:: The next spell you play this turn deals 1 Bonus Damage. (Each instance of damage the spell deals is increased by 1.)</p>",
+                "plain": ":rb_exhaust:: The next spell you play this turn deals 1 Bonus Damage. (Each instance of damage the spell deals is increased by 1.)",
+                "flavour": "The book is bound in flame-resistant materials, for obvious reasons."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/81f968126026635e5b9a2fa1048fc979fcd13a1d-744x1039.png",
+                "artist": "Polar Engine Studio",
+                "accessibility_text": "Riftbound Gear: Ravenborn Tome. [E]: The next spell you play this turn deals 1 Bonus Damage. (Each instance of damage the spell deals is increased by 1.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Ravenborn Tome",
+                "updated_on": "2026-03-19T20:25:44.402439+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86d9",
+            "name": "Shakedown",
+            "riftbound_id": "ogn-033-298",
+            "tcgplayer_id": "652806",
+            "collector_number": 33,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Choose an enemy unit. Deal 6 to it unless its controller has you draw 2.</p>",
+                "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Choose an enemy unit. Deal 6 to it unless its controller has you draw 2.",
+                "flavour": "Blink once for yes."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ab71d92c94bf609e2fa6efc8fec06fe1e8b10108-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Shakedown. [Reaction] (Play any time, even before spells and abilities resolve.)\nChoose an enemy unit. Deal 6 to it unless its controller has you draw 2."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Shakedown",
+                "updated_on": "2026-03-19T20:25:44.451871+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86da",
+            "name": "Tryndamere - Barbarian",
+            "riftbound_id": "ogn-034-298",
+            "tcgplayer_id": "652807",
+            "collector_number": 34,
+            "attributes": {
+                "energy": 7,
+                "might": 8,
+                "power": 2
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>When I conquer after an attack, if you assigned 5 or more excess damage to enemy units, you score 1 point.</p>",
+                "plain": "When I conquer after an attack, if you assigned 5 or more excess damage to enemy units, you score 1 point.",
+                "flavour": "You never stood a chance."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/124c93495c927be1baea03fdacf6c7b283cf8b6c-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Tryndamere, Barbarian. When I conquer after an attack, if you assigned 5 or more excess damage to enemy units, you score 1 point."
+            },
+            "tags": [
+                "Tryndamere",
+                "Freljord"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Tryndamere Barbarian",
+                "updated_on": "2026-03-19T20:25:44.500237+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86db",
+            "name": "Vayne - Hunter",
+            "riftbound_id": "ogn-035-298",
+            "tcgplayer_id": "652808",
+            "collector_number": 35,
+            "attributes": {
+                "energy": 4,
+                "might": 2,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Assault 3] (+3 :rb_might: while I'm an attacker.)<br />If an opponent controls a battlefield, I enter ready.<br />When I conquer, you may pay :rb_energy_1: to return me to my owner's hand.</p>",
+                "plain": "[Assault 3] (+3 :rb_might: while I'm an attacker.)If an opponent controls a battlefield, I enter ready.When I conquer, you may pay :rb_energy_1: to return me to my owner's hand.",
+                "flavour": "On wings of night."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b38a22e6f4bfaa8589f32754a7466fe5214e81b5-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Vayne, Hunter. [Assault 3] (+3 [S] while I'm an attacker.)\nIf an opponent controls a battlefield, I enter ready.\nWhen I conquer, you may pay [1] to return me to my owner's hand."
+            },
+            "tags": [
+                "Vayne",
+                "Demacia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Vayne Hunter",
+                "updated_on": "2026-03-19T20:25:44.551604+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86dc",
+            "name": "Vi - Destructive",
+            "riftbound_id": "ogn-036-298",
+            "tcgplayer_id": "652809",
+            "collector_number": 36,
+            "attributes": {
+                "energy": 2,
+                "might": 3,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Ganking] (I can move from battlefield to battlefield.)<br />Recycle 1 from your trash: Give me +1 :rb_might: this turn.</p>",
+                "plain": "[Ganking] (I can move from battlefield to battlefield.)Recycle 1 from your trash: Give me +1 :rb_might: this turn.",
+                "flavour": "Punch first. Ask questions while punching."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7ab52254ac49b8853fc7ae65b03aaee3f8c5994a-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Vi, Destructive. [Ganking] (I can move from battlefield to battlefield.)\nRecycle 1 from your trash: Give me +1 [S] this turn."
+            },
+            "tags": [
+                "Vi",
+                "Piltover"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Vi Destructive",
+                "updated_on": "2026-03-19T20:25:44.599276+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86dd",
+            "name": "Immortal Phoenix",
+            "riftbound_id": "ogn-037-298",
+            "tcgplayer_id": "652810",
+            "collector_number": 37,
+            "attributes": {
+                "energy": 3,
+                "might": 3,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Epic",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Assault 2] (+2 :rb_might: while I'm an attacker.)<br />When you kill a unit with a spell, you may pay :rb_energy_1::rb_rune_fury: to play me from your trash.</p>",
+                "plain": "[Assault 2] (+2 :rb_might: while I'm an attacker.)When you kill a unit with a spell, you may pay :rb_energy_1::rb_rune_fury: to play me from your trash.",
+                "flavour": "The memory of every death fuels even brighter flames."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7b623ae985bf5f362b6d8d4a17e9b8146aeae3c3-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Immortal Phoenix. [Assault 2] (+2 [S] while I'm an attacker.)\nWhen you kill a unit with a spell, you may pay [1][C] to play me from your trash."
+            },
+            "tags": [
+                "Spirit"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Immortal Phoenix",
+                "updated_on": "2026-03-19T20:25:44.648385+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86de",
+            "name": "Kadregrin the Infernal",
+            "riftbound_id": "ogn-038-298",
+            "tcgplayer_id": "652811",
+            "collector_number": 38,
+            "attributes": {
+                "energy": 9,
+                "might": 9,
+                "power": 2
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Epic",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you play me, draw 1 for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)</p>",
+                "plain": "When you play me, draw 1 for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)",
+                "flavour": "First among flames."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/733c32b1fccc7e2983cbb3586358152f90a6df04-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Kadregrin the Infernal. When you play me, draw 1 for each of your [Mighty] units. (A unit is Mighty while it has 5+ [S].)"
+            },
+            "tags": [
+                "Dragon",
+                "Demacia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Kadregrin the Infernal",
+                "updated_on": "2026-03-19T20:25:44.699120+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86df",
+            "name": "Kai'Sa - Survivor",
+            "riftbound_id": "ogn-039-298",
+            "tcgplayer_id": "652812",
+            "collector_number": 39,
+            "attributes": {
+                "energy": 4,
+                "might": 4,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Epic",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)<br />When I conquer, draw 1.</p>",
+                "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)When I conquer, draw 1.",
+                "flavour": "I like it here. I just Might stay."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3d942c02ad4e96a36dba14d663c5105bb6614500-744x1039.png",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Kai'Sa, Survivor. [Accelerate] (You may pay [1][C] as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+            },
+            "tags": [
+                "Kai'Sa",
+                "The Void"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "KaiSa Survivor",
+                "updated_on": "2026-03-19T20:25:44.750724+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86e0",
+            "name": "Kai'Sa - Survivor (Alternate Art)",
+            "riftbound_id": "ogn-039a-298",
+            "tcgplayer_id": "652813",
+            "collector_number": 39,
+            "attributes": {
+                "energy": 4,
+                "might": 4,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Showcase",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)<br />When I conquer, draw 1.</p>",
+                "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)When I conquer, draw 1.",
+                "flavour": "I like it here. I just Might stay."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ad69bde670ce218adee1d2a618a7295d2fb7bd4c-744x1039.png",
+                "artist": "Envar Studio",
+                "accessibility_text": "Riftbound Unit: Kai'Sa, Survivor. [Accelerate] (You may pay [1][C] as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+            },
+            "tags": [
+                "Kai'Sa",
+                "The Void"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "KaiSa Survivor Alternate Art",
+                "updated_on": "2026-03-19T20:25:44.817872+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86e1",
+            "name": "Seal of Rage",
+            "riftbound_id": "ogn-040-298",
+            "tcgplayer_id": "652814",
+            "collector_number": 40,
+            "attributes": {
+                "energy": 0,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Epic",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>:rb_exhaust:: [Reaction] — [Add] :rb_rune_fury:. (Abilities that add resources can't be reacted to.)</p>",
+                "plain": ":rb_exhaust:: [Reaction] — [Add] :rb_rune_fury:. (Abilities that add resources can't be reacted to.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fbdd14adb40b0ca46b89f476a356fa21413d812e-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Gear: Seal of Rage. [T]: [Reaction] — [Add] [C]. (Abilities that add resources can't be reacted to.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Seal of Rage",
+                "updated_on": "2026-03-19T20:25:44.871136+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86e2",
+            "name": "Volibear - Furious",
+            "riftbound_id": "ogn-041-298",
+            "tcgplayer_id": "652815",
+            "collector_number": 41,
+            "attributes": {
+                "energy": 10,
+                "might": 9,
+                "power": 2
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Epic",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)<br />When I attack, deal 5 damage split among any number of enemy units here.</p>",
+                "plain": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)When I attack, deal 5 damage split among any number of enemy units here.",
+                "flavour": "I split mountains with my roar!"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c9165d49b8caae9a856433cd5151e8b368eb80b5-744x1039.png",
+                "artist": "Envar Studio",
+                "accessibility_text": "Riftbound Unit: Volibear, Furious. [Deflect 2] (Opponents must pay [A][A] to choose me with a spell or ability.)\nWhen I attack, deal 5 damage split among any number of enemy units here."
+            },
+            "tags": [
+                "Volibear",
+                "Freljord"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Volibear Furious",
+                "updated_on": "2026-03-19T20:25:44.919346+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc8d308c64675ca86e3",
+            "name": "Volibear - Furious (Alternate Art)",
+            "riftbound_id": "ogn-041a-298",
+            "tcgplayer_id": "652816",
+            "collector_number": 41,
+            "attributes": {
+                "energy": 10,
+                "might": 9,
+                "power": 2
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Showcase",
+                "domain": [
+                    "Fury"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)<br />When I attack, deal 5 damage split among any number of enemy units here.</p>",
+                "plain": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)When I attack, deal 5 damage split among any number of enemy units here.",
+                "flavour": "I split mountains with my roar!"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/744d1b950ae7ef1e6e5b244538a6afb9802e5e3d-744x1039.png",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Volibear, Furious. [Deflect 2] (Opponents must pay [A][A] to choose me with a spell or ability.)\nWhen I attack, deal 5 damage split among any number of enemy units here."
+            },
+            "tags": [
+                "Volibear",
+                "Freljord"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Volibear Furious Alternate Art",
+                "updated_on": "2026-03-19T20:25:44.973505+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86e4",
+            "name": "Calm Rune",
+            "riftbound_id": "ogn-042-298",
+            "tcgplayer_id": "652817",
+            "collector_number": 42,
+            "attributes": {
+                "energy": null,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Rune",
+                "supertype": "Basic",
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "",
+                "plain": "",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0a0e8c3d16c2595e2f8efcc2b1466226539b506c-744x1039.png?accountingTag=RB",
+                "artist": "Greg Ghielmetti & Leah Chen",
+                "accessibility_text": "Riftbound Rune: Calm Rune."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Calm Rune",
+                "updated_on": "2026-03-19T20:25:45.028839+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86e5",
+            "name": "Calm Rune (Alternate Art)",
+            "riftbound_id": "ogn-042a-298",
+            "tcgplayer_id": "652818",
+            "collector_number": 42,
+            "attributes": {
+                "energy": null,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Rune",
+                "supertype": "Basic",
+                "rarity": "Showcase",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "",
+                "plain": "",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/88187b586b9b3cc2f48fd20c806dd5fc5e1bfc71-1488x2078.png?accountingTag=RB",
+                "artist": "Zhongqi Li",
+                "accessibility_text": "Riftbound Rune: Calm Rune."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Calm Rune Alternate Art",
+                "updated_on": "2026-03-19T20:25:45.077755+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86e6",
+            "name": "Charm",
+            "riftbound_id": "ogn-043-298",
+            "tcgplayer_id": "652819",
+            "collector_number": 43,
+            "attributes": {
+                "energy": 1,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>Move an enemy unit.</p>",
+                "plain": "Move an enemy unit.",
+                "flavour": "There's no harm in looking.\" -Common last words"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/62ae564505db8fcba70605eac2083ac2d4397b5a-744x1039.png?accountingTag=RB",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Charm. Move an enemy unit."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Charm",
+                "updated_on": "2026-03-19T20:25:45.129241+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86e7",
+            "name": "Clockwork Keeper",
+            "riftbound_id": "ogn-044-298",
+            "tcgplayer_id": "652820",
+            "collector_number": 44,
+            "attributes": {
+                "energy": 2,
+                "might": 2,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>You may pay :rb_rune_calm: as an additional cost to play me.<br />When you play me, if you paid the additional cost, draw 1.</p>",
+                "plain": "You may pay :rb_rune_calm: as an additional cost to play me.When you play me, if you paid the additional cost, draw 1.",
+                "flavour": "It always goes back for seconds."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/417e606418349bb25d4b07d460fa043ad85f2778-744x1039.png?accountingTag=RB",
+                "artist": "Polar Engine Studio",
+                "accessibility_text": "Riftbound Unit: Clockwork Keeper. You may pay [C] as an additional cost to play me.\nWhen you play me, if you paid the additional cost, draw 1."
+            },
+            "tags": [
+                "Shurima"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Clockwork Keeper",
+                "updated_on": "2026-03-19T20:25:45.185969+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86e8",
+            "name": "Defy",
+            "riftbound_id": "ogn-045-298",
+            "tcgplayer_id": "652821",
+            "collector_number": 45,
+            "attributes": {
+                "energy": 1,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Counter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:.</p>",
+                "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Counter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:.",
+                "flavour": "No."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4989bfcc4bd7be77051f0c2c349a981ba9c273e0-744x1039.png?accountingTag=RB",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Defy. [Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than [4] and no more than [A]."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Defy",
+                "updated_on": "2026-03-19T20:25:45.241980+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86e9",
+            "name": "En Garde",
+            "riftbound_id": "ogn-046-298",
+            "tcgplayer_id": "652822",
+            "collector_number": 46,
+            "attributes": {
+                "energy": 1,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Give a friendly unit +1 :rb_might: this turn, then an additional +1 :rb_might: this turn if it is the only unit you control there.</p>",
+                "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Give a friendly unit +1 :rb_might: this turn, then an additional +1 :rb_might: this turn if it is the only unit you control there.",
+                "flavour": "Is this supposed to be a challenge?\" -Fiora"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/03c0ec7eaa5957a62869dad2a0ce40913fc874a9-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: En Garde. [Reaction] (Play any time, even before spells and abilities resolve.)\nGive a friendly unit +1 [S] this turn, then an additional +1 [S] this turn if it is the only unit you control there."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "En Garde",
+                "updated_on": "2026-03-19T20:25:45.296277+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86ea",
+            "name": "Find Your Center",
+            "riftbound_id": "ogn-047-298",
+            "tcgplayer_id": "652823",
+            "collector_number": 47,
+            "attributes": {
+                "energy": 3,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />If an opponent's score is within 3 points of the Victory Score, this costs :rb_energy_2: less.<br />Draw 1 and channel 1 rune exhausted.</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)If an opponent's score is within 3 points of the Victory Score, this costs :rb_energy_2: less.Draw 1 and channel 1 rune exhausted.",
+                "flavour": "One does not wait for the perfect moment."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cd9d798b496fdce133c5b0106d636a230b6e7ebe-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Find Your Center. [Action] (Play on your turn or in showdowns.)\nIf an opponent's score is within 3 points of the Victory Score, this costs [2] less.\nDraw 1 and channel 1 rune exhausted."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Find Your Center",
+                "updated_on": "2026-03-19T20:25:45.344224+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86eb",
+            "name": "Meditation",
+            "riftbound_id": "ogn-048-298",
+            "tcgplayer_id": "652824",
+            "collector_number": 48,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />As an additional cost to play this, you may exhaust a friendly unit. If you do, draw 2. Otherwise, draw 1.</p>",
+                "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)As an additional cost to play this, you may exhaust a friendly unit. If you do, draw 2. Otherwise, draw 1.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7103336ab0d7f7bebdaa4155e4258d8d9beb06de-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Meditation. [Reaction] (Play any time, even before spells and abilities resolve.)\nAs an additional cost to play this, you may exhaust a friendly unit. If you do, draw 2. Otherwise, draw 1."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Meditation",
+                "updated_on": "2026-03-19T20:25:45.395301+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86ec",
+            "name": "Playful Phantom",
+            "riftbound_id": "ogn-049-298",
+            "tcgplayer_id": "652825",
+            "collector_number": 49,
+            "attributes": {
+                "energy": 5,
+                "might": 5,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "",
+                "plain": "",
+                "flavour": "My toys break so easily."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3171ef8c7968b0dfe088725b9721b19d175bdb1e-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Playful Phantom."
+            },
+            "tags": [
+                "Spirit",
+                "Shadow Isles"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Playful Phantom",
+                "updated_on": "2026-03-19T20:25:45.448676+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86ed",
+            "name": "Rune Prison",
+            "riftbound_id": "ogn-050-298",
+            "tcgplayer_id": "652826",
+            "collector_number": 50,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Stun a unit. (It doesn't deal combat damage this turn.)</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Stun a unit. (It doesn't deal combat damage this turn.)",
+                "flavour": "Be Still!\" -Ryze"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/21867baeaced3c22cda5f40f6b6c9a8dad4b7042-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Rune Prison. [Action] (Play on your turn or in showdowns.)\nStun a unit. (It doesn't deal combat damage this turn.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Rune Prison",
+                "updated_on": "2026-03-19T20:25:45.497639+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86ee",
+            "name": "Solari Shieldbearer",
+            "riftbound_id": "ogn-051-298",
+            "tcgplayer_id": "652827",
+            "collector_number": 51,
+            "attributes": {
+                "energy": 3,
+                "might": 2,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you play me, stun a unit. (It doesn't deal combat damage this turn.)</p>",
+                "plain": "When you play me, stun a unit. (It doesn't deal combat damage this turn.)",
+                "flavour": "Discipline is our shield."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9387ea6480c9fd6991760b07a178c07a5fcf1c57-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Solari Shieldbearer. When you play me, stun a unit. (It doesn't deal combat damage this turn.)"
+            },
+            "tags": [
+                "Mount Targon"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Solari Shieldbearer",
+                "updated_on": "2026-03-19T20:25:45.548190+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86ef",
+            "name": "Stalwart Poro",
+            "riftbound_id": "ogn-052-298",
+            "tcgplayer_id": "652828",
+            "collector_number": 52,
+            "attributes": {
+                "energy": 2,
+                "might": 2,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)</p>",
+                "plain": "[Shield] (+1 :rb_might: while I'm a defender.)",
+                "flavour": "It suits him."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c4a5d7178e783c3975749271b6df333a82a2328a-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Stalwart Poro. [Shield] (+1 [S] while I'm a defender.)"
+            },
+            "tags": [
+                "Poro"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Stalwart Poro",
+                "updated_on": "2026-03-19T20:25:45.599325+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86f0",
+            "name": "Stand United",
+            "riftbound_id": "ogn-053-298",
+            "tcgplayer_id": "652829",
+            "collector_number": 53,
+            "attributes": {
+                "energy": 3,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />[Action] (Play on your turn or in showdowns.)<br />Buff a friendly unit. Buffs give an additional +1 :rb_might: to friendly units this turn. (To buff a unit, give it a +1 :rb_might: buff if it doesn't already have one.)</p>",
+                "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)Buff a friendly unit. Buffs give an additional +1 :rb_might: to friendly units this turn. (To buff a unit, give it a +1 :rb_might: buff if it doesn't already have one.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4d10570e70a998de520d4baba254c3b726caa4f0-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Spell: Stand United. [Hidden] (Hide now for [A] to react with later for [0].)\n[Action] (Play on your turn or in showdowns.)\nBuff a friendly unit. Buffs give an additional +1 [S] to friendly units this turn. (To buff a unit, give it a +1 [S] buff if it doesn't already have one.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Stand United",
+                "updated_on": "2026-03-19T20:25:45.649360+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86f1",
+            "name": "Sunlit Guardian",
+            "riftbound_id": "ogn-054-298",
+            "tcgplayer_id": "652830",
+            "collector_number": 54,
+            "attributes": {
+                "energy": 3,
+                "might": 3,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)<br />[Tank] (I must be assigned combat damage first.)</p>",
+                "plain": "[Shield] (+1 :rb_might: while I'm a defender.)[Tank] (I must be assigned combat damage first.)",
+                "flavour": "Nobody ever won a war without defending."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/28bce7a662b9008f65565300f828d98790a641e1-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Sunlit Guardian. [Shield] (+1 [S] while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)"
+            },
+            "tags": [
+                "Shurima"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Sunlit Guardian",
+                "updated_on": "2026-03-19T20:25:45.700207+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86f2",
+            "name": "Wielder of Water",
+            "riftbound_id": "ogn-055-298",
+            "tcgplayer_id": "652831",
+            "collector_number": 55,
+            "attributes": {
+                "energy": 3,
+                "might": 2,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>While I'm attacking or defending alone, I have +2 :rb_might:.</p>",
+                "plain": "While I'm attacking or defending alone, I have +2 :rb_might:.",
+                "flavour": "Each drop an ocean of possibilities."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5b38a7758705bd739caf07b5c0c49482a4a23015-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Wielder of Water. While I'm attacking or defending alone, I have +2 [S]."
+            },
+            "tags": [
+                "Ionia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Wielder of Water",
+                "updated_on": "2026-03-19T20:25:45.748097+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86f3",
+            "name": "Adaptatron",
+            "riftbound_id": "ogn-056-298",
+            "tcgplayer_id": "652832",
+            "collector_number": 56,
+            "attributes": {
+                "energy": 4,
+                "might": 3,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When I conquer, you may kill a gear. If you do, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)</p>",
+                "plain": "When I conquer, you may kill a gear. If you do, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)",
+                "flavour": "There's a scrap for that."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a3ddb00a2a872eaceb96469739531414aa27455d-744x1039.png?accountingTag=RB",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Adaptatron. When I conquer, you may kill a gear. If you do, buff me. (If I don't have a buff, I get a +1 [S] buff.)"
+            },
+            "tags": [
+                "Mech",
+                "Piltover"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Adaptatron",
+                "updated_on": "2026-03-19T20:25:45.795961+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86f4",
+            "name": "Block",
+            "riftbound_id": "ogn-057-298",
+            "tcgplayer_id": "652833",
+            "collector_number": 57,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />[Action] (Play on your turn or in showdowns.)<br />Give a unit [Shield 3] and [Tank] this turn. (+3 :rb_might: while it's a defender. It must be assigned combat damage first.)</p>",
+                "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)Give a unit [Shield 3] and [Tank] this turn. (+3 :rb_might: while it's a defender. It must be assigned combat damage first.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/36f7352e715fe073631ed85be41408c9a38ab865-744x1039.png?accountingTag=RB",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Block. [Hidden] (Hide now for [A] to react with later for [0].)\n[Action] (Play on your turn or in showdowns.)\nGive a unit [Shield 3] and [Tank] this turn. (+3 [S] while it's a defender. It must be assigned combat damage first.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Block",
+                "updated_on": "2026-03-19T20:25:45.848198+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86f5",
+            "name": "Discipline",
+            "riftbound_id": "ogn-058-298",
+            "tcgplayer_id": "652834",
+            "collector_number": 58,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Give a unit +2 :rb_might: this turn. Draw 1.</p>",
+                "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Give a unit +2 :rb_might: this turn. Draw 1.",
+                "flavour": "A blade is only as sharp as the one who wields it."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b9613970b505e3ad6abe2d51d091778314a7d48-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Discipline. [Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit +2 [S] this turn. Draw 1."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Discipline",
+                "updated_on": "2026-03-27T22:10:11.071415+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86f6",
+            "name": "Eclipse Herald",
+            "riftbound_id": "ogn-059-298",
+            "tcgplayer_id": "652835",
+            "collector_number": 59,
+            "attributes": {
+                "energy": 7,
+                "might": 7,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you stun an enemy unit, ready me and give me +1 :rb_might: this turn.</p>",
+                "plain": "When you stun an enemy unit, ready me and give me +1 :rb_might: this turn.",
+                "flavour": "An omen as terrifying as that which follows."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bbe4fec278b8960681f97da658dc2f06ee46c4bd-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Eclipse Herald. When you stun an enemy unit, ready me and give me +1 [S] this turn."
+            },
+            "tags": [
+                "Bird",
+                "Mount Targon"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Eclipse Herald",
+                "updated_on": "2026-03-25T19:51:25.600234+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bc9d308c64675ca86f7",
+            "name": "Mask of Foresight",
+            "riftbound_id": "ogn-060-298",
+            "tcgplayer_id": "652836",
+            "collector_number": 60,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn.</p>",
+                "plain": "When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn.",
+                "flavour": "To know the future, you must first accept it."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/03824709acbb4151d13b083a842c4702a3e61221-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Gear: Mask of Foresight. When a friendly unit attacks or defends alone, give it +1 [S] this turn."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Mask of Foresight",
+                "updated_on": "2026-03-19T20:25:45.995502+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca86f8",
+            "name": "Poro Herder",
+            "riftbound_id": "ogn-061-298",
+            "tcgplayer_id": "652837",
+            "collector_number": 61,
+            "attributes": {
+                "energy": 3,
+                "might": 3,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you play me, if you control a Poro, buff me and draw 1. (If I don't have a buff, I get a +1 :rb_might: buff.)</p>",
+                "plain": "When you play me, if you control a Poro, buff me and draw 1. (If I don't have a buff, I get a +1 :rb_might: buff.)",
+                "flavour": "A fluft is where you make it."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/166b718a8517fcceac7e7d4f6acbc4fa0bbc2c55-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Poro Herder. When you play me, if you control a Poro, buff me and draw 1. (If I don't have a buff, I get a +1 [S] buff.)"
+            },
+            "tags": [
+                "Freljord"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Poro Herder",
+                "updated_on": "2026-03-19T20:25:46.057514+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca86f9",
+            "name": "Reinforce",
+            "riftbound_id": "ogn-062-298",
+            "tcgplayer_id": "652838",
+            "collector_number": 62,
+            "attributes": {
+                "energy": 5,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>Look at the top 5 cards of your Main Deck. You may banish a unit from among them, then play it, reducing its cost by :rb_energy_5:. Recycle the remaining cards.</p>",
+                "plain": "Look at the top 5 cards of your Main Deck. You may banish a unit from among them, then play it, reducing its cost by :rb_energy_5:. Recycle the remaining cards.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5bb4ce960c7636dac103c560a2e2f4e32f9d5390-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Reinforce. Look at the top 5 cards of your Main Deck. You may banish a unit from among them, then play it, reducing its cost by [5]. Recycle the remaining cards."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Reinforce",
+                "updated_on": "2026-03-19T20:25:46.109944+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca86fa",
+            "name": "Spirit's Refuge",
+            "riftbound_id": "ogn-063-298",
+            "tcgplayer_id": "652839",
+            "collector_number": 63,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you play this, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)<br />Friendly buffed units have [Deflect] if they didn't already. (Opponents must pay :rb_rune_rainbow: to choose those units with a spell or ability.)</p>",
+                "plain": "When you play this, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)Friendly buffed units have [Deflect] if they didn't already. (Opponents must pay :rb_rune_rainbow: to choose those units with a spell or ability.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/26d5e54580d1f17ed6c35a66ac6a90ce56c99ec8-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Gear: Spirit's Refuge. When you play this, buff a friendly unit. (If it doesn't have a buff, it gets a +1 [S] buff.)\nFriendly buffed units have [Deflect] if they didn't already. (Opponents must pay [A] to choose those units with a spell or ability.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Spirits Refuge",
+                "updated_on": "2026-03-19T20:25:46.157744+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca86fb",
+            "name": "Wind Wall",
+            "riftbound_id": "ogn-064-298",
+            "tcgplayer_id": "652840",
+            "collector_number": 64,
+            "attributes": {
+                "energy": 3,
+                "might": null,
+                "power": 2
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Counter a spell.</p>",
+                "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Counter a spell.",
+                "flavour": "Face the wind!\" -Yasuo"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/72c4dbe48d06916c847dab40340e5f05228fadfe-744x1039.png",
+                "artist": "Max Grecke",
+                "accessibility_text": "Riftbound Spell: Wind Wall. [Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Wind Wall",
+                "updated_on": "2026-03-19T20:25:46.205953+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca86fc",
+            "name": "Wizened Elder",
+            "riftbound_id": "ogn-065-298",
+            "tcgplayer_id": "652841",
+            "collector_number": 65,
+            "attributes": {
+                "energy": 4,
+                "might": 4,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Uncommon",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>While I'm buffed, I have an additional +1 :rb_might:.</p>",
+                "plain": "While I'm buffed, I have an additional +1 :rb_might:.",
+                "flavour": "I'm still fighting at my age. That should concern you more than it does."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7b98797789ad7e3a6cf52126b82a42ec6f269bb7-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Wizened Elder. While I'm buffed, I have an additional +1 [S]."
+            },
+            "tags": [
+                "Ionia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Wizened Elder",
+                "updated_on": "2026-03-19T20:25:46.261064+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca86fd",
+            "name": "Ahri - Alluring",
+            "riftbound_id": "ogn-066-298",
+            "tcgplayer_id": "652842",
+            "collector_number": 66,
+            "attributes": {
+                "energy": 5,
+                "might": 4,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When I hold, you score 1 point.</p>",
+                "plain": "When I hold, you score 1 point.",
+                "flavour": "Remember this moment."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fabbcc2f83f397cf07299236a702db05a151053b-744x1039.png?accountingTag=RB",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Ahri, Alluring. When I hold, you score 1 point."
+            },
+            "tags": [
+                "Ahri",
+                "Ionia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Ahri Alluring",
+                "updated_on": "2026-03-19T20:25:46.315911+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca86fe",
+            "name": "Ahri - Alluring (Alternate Art)",
+            "riftbound_id": "ogn-066a-298",
+            "tcgplayer_id": "652843",
+            "collector_number": 66,
+            "attributes": {
+                "energy": 5,
+                "might": 4,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Showcase",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When I hold, you score 1 point.</p>",
+                "plain": "When I hold, you score 1 point.",
+                "flavour": "Remember this moment."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/933f5d58cc0e27d017982306b9ae0f581c9c8d27-744x1039.png?accountingTag=RB",
+                "artist": "Wild Rift",
+                "accessibility_text": "Riftbound Unit: Ahri, Alluring. When I hold, you score 1 point."
+            },
+            "tags": [
+                "Ahri",
+                "Ionia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Ahri Alluring Alternate Art",
+                "updated_on": "2026-03-19T20:25:46.366716+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca86ff",
+            "name": "Blitzcrank - Impassive",
+            "riftbound_id": "ogn-067-298",
+            "tcgplayer_id": "652844",
+            "collector_number": 67,
+            "attributes": {
+                "energy": 5,
+                "might": 5,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Tank] (I must be assigned combat damage first.)<br />When you play me to a battlefield, you may move an enemy unit to here.<br />When I hold, return me to my owner's hand.</p>",
+                "plain": "[Tank] (I must be assigned combat damage first.)When you play me to a battlefield, you may move an enemy unit to here.When I hold, return me to my owner's hand.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/654dcc4aef0a0b5a0c6e928d7aae397a52c3ab17-744x1039.png?accountingTag=RB",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Blitzcrank, Impassive. [Tank] (I must be assigned combat damage first.)\nWhen you play me to a battlefield, you may move an enemy unit to here.\nWhen I hold, return me to my owner's hand."
+            },
+            "tags": [
+                "Mech",
+                "Blitzcrank",
+                "Zaun"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Blitzcrank Impassive",
+                "updated_on": "2026-03-19T20:25:46.416109+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8700",
+            "name": "Caitlyn - Patrolling",
+            "riftbound_id": "ogn-068-298",
+            "tcgplayer_id": "652845",
+            "collector_number": 68,
+            "attributes": {
+                "energy": 3,
+                "might": 3,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>I must be assigned combat damage last.<br />:rb_exhaust:: Deal damage equal to my Might to a unit at a battlefield. Use this ability only while I'm at a battlefield.</p>",
+                "plain": "I must be assigned combat damage last.:rb_exhaust:: Deal damage equal to my Might to a unit at a battlefield. Use this ability only while I'm at a battlefield.",
+                "flavour": "I never miss."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/51e6bacf25d19e7c391367ff107efb9e0b9f1ff5-744x1039.png?accountingTag=RB",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Caitlyn, Patrolling. I must be assigned combat damage last.\n[T]: Deal damage equal to my Might to a unit at a battlefield. Use this ability only while I'm at a battlefield."
+            },
+            "tags": [
+                "Caitlyn",
+                "Piltover"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Caitlyn Patrolling",
+                "updated_on": "2026-03-19T20:25:46.467265+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8701",
+            "name": "Last Stand",
+            "riftbound_id": "ogn-069-298",
+            "tcgplayer_id": "652846",
+            "collector_number": 69,
+            "attributes": {
+                "energy": 3,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Double a friendly unit's Might this turn. Give it [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Double a friendly unit's Might this turn. Give it [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)",
+                "flavour": "Worth it."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9062d372d299c5c6a0c679f0ff07ba71590ca5f1-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Last Stand. [Action] (Play on your turn or in showdowns.)\nDouble a friendly unit's Might this turn. Give it [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Last Stand",
+                "updated_on": "2026-03-19T20:25:46.515869+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8702",
+            "name": "Mageseeker Warden",
+            "riftbound_id": "ogn-070-298",
+            "tcgplayer_id": "652847",
+            "collector_number": 70,
+            "attributes": {
+                "energy": 6,
+                "might": 5,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>While I'm at a battlefield, opponents can only play units to their base.<br />While I'm at a battlefield, spells and abilities can't ready enemy units and gear.</p>",
+                "plain": "While I'm at a battlefield, opponents can only play units to their base.While I'm at a battlefield, spells and abilities can't ready enemy units and gear.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ae844b929f817cdf76fe40c7bf5d5fc02062bdac-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Mageseeker Warden. While I'm at a battlefield, opponents can only play units to their base.\nWhile I'm at a battlefield, spells and abilities can't ready enemy units and gear."
+            },
+            "tags": [
+                "Demacia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Mageseeker Warden",
+                "updated_on": "2026-03-19T20:25:46.567406+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8703",
+            "name": "Party Favors",
+            "riftbound_id": "ogn-071-298",
+            "tcgplayer_id": "652848",
+            "collector_number": 71,
+            "attributes": {
+                "energy": 3,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>Each other player chooses Cards or Runes. For each player that chooses Cards, you and that player each draw 1. For each player that chooses Runes, you and that player each channel 1 rune exhausted.</p>",
+                "plain": "Each other player chooses Cards or Runes. For each player that chooses Cards, you and that player each draw 1. For each player that chooses Runes, you and that player each channel 1 rune exhausted.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fddcef3c55663c5d6856f6d039d19cacfd64abb5-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Party Favors. Each other player chooses Cards or Runes. For each player that chooses Cards, you and that player each draw 1. For each player that chooses Runes, you and that player each channel 1 rune exhausted."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Party Favors",
+                "updated_on": "2026-03-19T20:25:46.619966+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8704",
+            "name": "Solari Shrine",
+            "riftbound_id": "ogn-072-298",
+            "tcgplayer_id": "652849",
+            "collector_number": 72,
+            "attributes": {
+                "energy": 3,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you kill a stunned enemy unit, you may exhaust this to draw 1.</p>",
+                "plain": "When you kill a stunned enemy unit, you may exhaust this to draw 1.",
+                "flavour": "The names of the fallen are a lesson for our descendants."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/139a6d1c62a717bab4cdd75926e7f4aba6efb15d-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Gear: Solari Shrine. When you kill a stunned enemy unit, you may exhaust this to draw 1."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Solari Shrine",
+                "updated_on": "2026-03-19T20:25:46.668327+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8705",
+            "name": "Sona - Harmonious",
+            "riftbound_id": "ogn-073-298",
+            "tcgplayer_id": "652850",
+            "collector_number": 73,
+            "attributes": {
+                "energy": 4,
+                "might": 4,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>At the end of your turn, if I'm at a battlefield, ready up to 4 friendly runes.</p>",
+                "plain": "At the end of your turn, if I'm at a battlefield, ready up to 4 friendly runes.",
+                "flavour": "The symphony never ends."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8582f6430821fb912fcb3619c5ce9405f254cb2f-744x1039.png",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Sona, Harmonious. At the end of your turn, if I'm at a battlefield, ready up to 4 friendly runes."
+            },
+            "tags": [
+                "Sona",
+                "Demacia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Sona Harmonious",
+                "updated_on": "2026-03-19T20:25:46.716373+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8706",
+            "name": "Taric - Protector",
+            "riftbound_id": "ogn-074-298",
+            "tcgplayer_id": "652851",
+            "collector_number": 74,
+            "attributes": {
+                "energy": 4,
+                "might": 4,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)<br />[Tank] (I must be assigned combat damage first.)<br />Other friendly units here have [Shield].</p>",
+                "plain": "[Shield] (+1 :rb_might: while I'm a defender.)[Tank] (I must be assigned combat damage first.)Other friendly units here have [Shield].",
+                "flavour": "Each life is a rare jewel."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7d08e3f64401cb87b8a0564a1cbe6fc94aee03a7-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Taric, Protector. [Shield] (+1 [S] while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nOther friendly units here have [Shield]."
+            },
+            "tags": [
+                "Taric",
+                "Mount Targon"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Taric Protector",
+                "updated_on": "2026-03-19T20:25:46.770481+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8707",
+            "name": "Tasty Faefolk",
+            "riftbound_id": "ogn-075-298",
+            "tcgplayer_id": "652852",
+            "collector_number": 75,
+            "attributes": {
+                "energy": 7,
+                "might": 6,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_calm: as an additional cost to have me enter ready.)<br />[Deathknell] — Channel 2 runes exhausted and draw 1. (When I die, get the effect.)</p>",
+                "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_calm: as an additional cost to have me enter ready.)[Deathknell] — Channel 2 runes exhausted and draw 1. (When I die, get the effect.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/65f69ca9a1087deb12e91fb6fdee7b6efd0c088f-744x1039.png",
+                "artist": "Dao Trong Le",
+                "accessibility_text": "Riftbound Unit: Tasty Faefolk. [Accelerate] (You may pay [1][C] as an additional cost to have me enter ready.)\n[Deathknell] — Channel 2 runes exhausted and draw 1. (When I die, get the effect.)"
+            },
+            "tags": [
+                "Fae",
+                "Bandle City"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Tasty Faefolk",
+                "updated_on": "2026-03-19T20:25:46.823423+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8708",
+            "name": "Yasuo - Remorseful",
+            "riftbound_id": "ogn-076-298",
+            "tcgplayer_id": "652853",
+            "collector_number": 76,
+            "attributes": {
+                "energy": 6,
+                "might": 6,
+                "power": 2
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When I attack, deal damage equal to my Might to an enemy unit here.</p>",
+                "plain": "When I attack, deal damage equal to my Might to an enemy unit here.",
+                "flavour": "Is a leaf's only purpose to fall?"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1643a6c93626884c93363557e1a483642bda6c45-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Yasuo, Remorseful. When I attack, deal damage equal to my Might to an enemy unit here."
+            },
+            "tags": [
+                "Yasuo",
+                "Ionia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Yasuo Remorseful",
+                "updated_on": "2026-03-19T20:25:46.872014+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca8709",
+            "name": "Yasuo - Remorseful (Alternate Art)",
+            "riftbound_id": "ogn-076a-298",
+            "tcgplayer_id": "652854",
+            "collector_number": 76,
+            "attributes": {
+                "energy": 6,
+                "might": 6,
+                "power": 2
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Showcase",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When I attack, deal damage equal to my Might to an enemy unit here.</p>",
+                "plain": "When I attack, deal damage equal to my Might to an enemy unit here.",
+                "flavour": "Is a leaf's only purpose to fall?"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3f2cff3ff3b146c8bfe11594e37e9d8109884273-744x1039.png",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Yasuo, Remorseful. When I attack, deal damage equal to my Might to an enemy unit here."
+            },
+            "tags": [
+                "Yasuo",
+                "Ionia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Yasuo Remorseful Alternate Art",
+                "updated_on": "2026-03-19T20:25:46.922599+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcad308c64675ca870a",
+            "name": "Zhonya's Hourglass",
+            "riftbound_id": "ogn-077-298",
+            "tcgplayer_id": "652855",
+            "collector_number": 77,
+            "attributes": {
+                "energy": 2,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Rare",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />If a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)</p>",
+                "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)If a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dc38172c56f838b407fc9f170ba973da32d7cd4d-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Gear: Zhonya's Hourglass. [Hidden] (Hide now for [A] to react with later for [0].)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Zhonyas Hourglass",
+                "updated_on": "2026-03-19T20:25:46.971321+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca870b",
+            "name": "Lee Sin - Ascetic",
+            "riftbound_id": "ogn-078-298",
+            "tcgplayer_id": "652856",
+            "collector_number": 78,
+            "attributes": {
+                "energy": 5,
+                "might": 5,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Epic",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)<br />:rb_exhaust:: Buff me. (I get a +1 :rb_might: buff.)<br />I can have any number of buffs.</p>",
+                "plain": "[Shield] (+1 :rb_might: while I'm a defender.):rb_exhaust:: Buff me. (I get a +1 :rb_might: buff.)I can have any number of buffs.",
+                "flavour": "Let us see whose spirit is stronger."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/70734e8833bfbbdb2736407c449f418553e3cf7c-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Lee Sin, Ascetic. [Shield] (+1 [S] while I'm a defender.)\n[T]: Buff me. (I get a +1 [S] buff.)\nI can have any number of buffs."
+            },
+            "tags": [
+                "Lee Sin",
+                "Ionia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Lee Sin Ascetic",
+                "updated_on": "2026-03-19T20:25:47.022345+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca870c",
+            "name": "Lee Sin - Ascetic (Alternate Art)",
+            "riftbound_id": "ogn-078a-298",
+            "tcgplayer_id": "652857",
+            "collector_number": 78,
+            "attributes": {
+                "energy": 5,
+                "might": 5,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Showcase",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)<br />:rb_exhaust:: Buff me. (I get a +1 :rb_might: buff.)<br />I can have any number of buffs.</p>",
+                "plain": "[Shield] (+1 :rb_might: while I'm a defender.):rb_exhaust:: Buff me. (I get a +1 :rb_might: buff.)I can have any number of buffs.",
+                "flavour": "Let us see whose spirit is stronger."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d34a98faacd3f7d32afd6fad99c806f202aa9dad-744x1039.png",
+                "artist": "League Splash Team",
+                "accessibility_text": "Riftbound Unit: Lee Sin, Ascetic. [Shield] (+1 [S] while I'm a defender.)\n[T]: Buff me. (I get a +1 [S] buff.)\nI can have any number of buffs."
+            },
+            "tags": [
+                "Lee Sin",
+                "Ionia"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Lee Sin Ascetic Alternate Art",
+                "updated_on": "2026-03-19T20:25:47.070310+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca870d",
+            "name": "Leona - Zealot",
+            "riftbound_id": "ogn-079-298",
+            "tcgplayer_id": "652858",
+            "collector_number": 79,
+            "attributes": {
+                "energy": 6,
+                "might": 6,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Epic",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>If an opponent's score is within 3 points of the Victory Score, I enter ready.<br />Stunned enemy units here have -8 :rb_might:, to a minimum of 1 :rb_might:.</p>",
+                "plain": "If an opponent's score is within 3 points of the Victory Score, I enter ready.Stunned enemy units here have -8 :rb_might:, to a minimum of 1 :rb_might:.",
+                "flavour": "Feel the sun's glory!"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3bd1e924bec41b0f733fc8b93dc8918ce5a53ba4-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Leona, Zealot. If an opponent's score is within 3 points of the Victory Score, I enter ready.\nStunned enemy units here have -8 [S], to a minimum of 1 [S]."
+            },
+            "tags": [
+                "Leona",
+                "Mount Targon"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Leona Zealot",
+                "updated_on": "2026-03-19T20:25:47.119283+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca870e",
+            "name": "Leona - Zealot (Alternate Art)",
+            "riftbound_id": "ogn-079a-298",
+            "tcgplayer_id": "652859",
+            "collector_number": 79,
+            "attributes": {
+                "energy": 6,
+                "might": 6,
+                "power": 1
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": "Champion",
+                "rarity": "Showcase",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>If an opponent's score is within 3 points of the Victory Score, I enter ready.<br />Stunned enemy units here have -8 :rb_might:, to a minimum of 1 :rb_might:.</p>",
+                "plain": "If an opponent's score is within 3 points of the Victory Score, I enter ready.Stunned enemy units here have -8 :rb_might:, to a minimum of 1 :rb_might:.",
+                "flavour": "Feel the sun's glory!"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/451caa433b1fbe8e9d2b86548b82c3c5f2bac620-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Leona, Zealot. If an opponent's score is within 3 points of the Victory Score, I enter ready.\nStunned enemy units here have -8 [S], to a minimum of 1 [S]."
+            },
+            "tags": [
+                "Leona",
+                "Mount Targon"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Leona Zealot Alternate Art",
+                "updated_on": "2026-03-19T20:25:47.169790+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca870f",
+            "name": "Mystic Reversal",
+            "riftbound_id": "ogn-080-298",
+            "tcgplayer_id": "652860",
+            "collector_number": 80,
+            "attributes": {
+                "energy": 4,
+                "might": null,
+                "power": 3
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Epic",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Gain control of a spell. You may make new choices for it.</p>",
+                "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Gain control of a spell. You may make new choices for it.",
+                "flavour": "Good mages borrow, great mages steal."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/298fe91f9d76086b7d77880e11016ed46389b61b-744x1039.png",
+                "artist": "Polar Engine Studio",
+                "accessibility_text": "Riftbound Spell: Mystic Reversal. [Reaction] (Play any time, even before spells and abilities resolve.)\nGain control of a spell. You may make new choices for it."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Mystic Reversal",
+                "updated_on": "2026-03-19T20:25:47.220110+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8710",
+            "name": "Seal of Focus",
+            "riftbound_id": "ogn-081-298",
+            "tcgplayer_id": "652861",
+            "collector_number": 81,
+            "attributes": {
+                "energy": 0,
+                "might": null,
+                "power": 1
+            },
+            "classification": {
+                "type": "Gear",
+                "supertype": null,
+                "rarity": "Epic",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>:rb_exhaust:: [Reaction] — [Add] :rb_rune_calm:. (Abilities that add resources can't be reacted to.)</p>",
+                "plain": ":rb_exhaust:: [Reaction] — [Add] :rb_rune_calm:. (Abilities that add resources can't be reacted to.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/288c300c4e4cb10ecfe6c3cbb543d0636b306852-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Gear: Seal of Focus. [T]: [Reaction] — [Add] [C]. (Abilities that add resources can't be reacted to.)"
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Seal of Focus",
+                "updated_on": "2026-03-19T20:25:47.268013+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8711",
+            "name": "Whiteflame Protector",
+            "riftbound_id": "ogn-082-298",
+            "tcgplayer_id": "652862",
+            "collector_number": 82,
+            "attributes": {
+                "energy": 8,
+                "might": 8,
+                "power": 2
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Epic",
+                "domain": [
+                    "Calm"
+                ]
+            },
+            "text": {
+                "rich": "<p>When you play me, give a unit +8 :rb_might: this turn.</p>",
+                "plain": "When you play me, give a unit +8 :rb_might: this turn.",
+                "flavour": "A dragon is capable of nobility equal to its rage."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a5cdd793736f915fa1b4ea388af66de7b2bc00cb-744x1039.png",
+                "artist": "Aron Elekes",
+                "accessibility_text": "Riftbound Unit: Whiteflame Protector. When you play me, give a unit +8 [S] this turn."
+            },
+            "tags": [
+                "Dragon",
+                "Mount Targon"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Whiteflame Protector",
+                "updated_on": "2026-03-19T20:25:47.319278+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8712",
+            "name": "Consult the Past",
+            "riftbound_id": "ogn-083-298",
+            "tcgplayer_id": "652863",
+            "collector_number": 83,
+            "attributes": {
+                "energy": 4,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Mind"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />[Reaction] (Play any time, even before spells and abilities resolve.)<br />Draw 2.</p>",
+                "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Reaction] (Play any time, even before spells and abilities resolve.)Draw 2.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/198d950d3933972273ec714e9264cbd563ea6920-744x1039.png?accountingTag=RB",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Consult the Past. [Hidden] (Hide now for [A] to react with later for [0].)\n[Reaction] (Play any time, even before spells and abilities resolve.)\nDraw 2."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Consult the Past",
+                "updated_on": "2026-03-19T20:25:47.377268+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8713",
+            "name": "Eager Apprentice",
+            "riftbound_id": "ogn-084-298",
+            "tcgplayer_id": "652864",
+            "collector_number": 84,
+            "attributes": {
+                "energy": 3,
+                "might": 3,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Mind"
+                ]
+            },
+            "text": {
+                "rich": "<p>While I'm at a battlefield, the Energy costs for spells you play is reduced by :rb_energy_1:, to a minimum of :rb_energy_1:.</p>",
+                "plain": "While I'm at a battlefield, the Energy costs for spells you play is reduced by :rb_energy_1:, to a minimum of :rb_energy_1:.",
+                "flavour": "As long as these thirty-seven things go right, it'll work every time!"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cf6d5447ff3634d8c2c0216cb2e5802fb5ca0b2e-744x1039.png",
+                "artist": "Six More Vodka",
+                "accessibility_text": "Riftbound Unit: Eager Apprentice. While I'm at a battlefield, the Energy costs for spells you play is reduced by [1], to a minimum of [1]."
+            },
+            "tags": [
+                "Piltover"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Eager Apprentice",
+                "updated_on": "2026-03-25T19:51:26.394238+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8714",
+            "name": "Falling Comet",
+            "riftbound_id": "ogn-085-298",
+            "tcgplayer_id": "652865",
+            "collector_number": 85,
+            "attributes": {
+                "energy": 5,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Spell",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Mind"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 6 to a unit at a battlefield.</p>",
+                "plain": "[Action] (Play on your turn or in showdowns.)Deal 6 to a unit at a battlefield.",
+                "flavour": "Just an everyday celestial event."
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/eaaf300a07d5b2927fe9a601d70f2a01b512cc7e-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Spell: Falling Comet. [Action] (Play on your turn or in showdowns.)\nDeal 6 to a unit at a battlefield."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Falling Comet",
+                "updated_on": "2026-03-19T20:25:47.492813+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8715",
+            "name": "Jeweled Colossus",
+            "riftbound_id": "ogn-086-298",
+            "tcgplayer_id": "652866",
+            "collector_number": 86,
+            "attributes": {
+                "energy": 5,
+                "might": 5,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Mind"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)<br />[Shield] (+1 :rb_might: while I'm a defender.)</p>",
+                "plain": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)[Shield] (+1 :rb_might: while I'm a defender.)",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/775bea14038165fd9feb15c796ed84aa00a032e1-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Jeweled Colossus. [Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)\n[Shield] (+1 [S] while I'm a defender.)"
+            },
+            "tags": [
+                "Mount Targon"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Jeweled Colossus",
+                "updated_on": "2026-03-19T20:25:47.541143+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8716",
+            "name": "Lecturing Yordle",
+            "riftbound_id": "ogn-087-298",
+            "tcgplayer_id": "652867",
+            "collector_number": 87,
+            "attributes": {
+                "energy": 3,
+                "might": 2,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Mind"
+                ]
+            },
+            "text": {
+                "rich": "<p>[Tank] (I must be assigned combat damage first.)<br />When you play me, draw 1.</p>",
+                "plain": "[Tank] (I must be assigned combat damage first.)When you play me, draw 1.",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/62e22370dac35c18de21efbfce9c86ca821e9105-744x1039.png",
+                "artist": "Kudos Productions",
+                "accessibility_text": "Riftbound Unit: Lecturing Yordle. [Tank] (I must be assigned combat damage first.)\nWhen you play me, draw 1."
+            },
+            "tags": [
+                "Yordle",
+                "Bandle City"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Lecturing Yordle",
+                "updated_on": "2026-03-19T20:25:47.588612+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8717",
+            "name": "Mega-Mech",
+            "riftbound_id": "ogn-088-298",
+            "tcgplayer_id": "652868",
+            "collector_number": 88,
+            "attributes": {
+                "energy": 7,
+                "might": 8,
+                "power": null
+            },
+            "classification": {
+                "type": "Unit",
+                "supertype": null,
+                "rarity": "Common",
+                "domain": [
+                    "Mind"
+                ]
+            },
+            "text": {
+                "rich": "",
+                "plain": "",
+                "flavour": "Mech fights have two rules: One- No Cheating. Two- Don't get caught cheating"
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f71db7b62798a2a10a1ab0d293c26ac9dd163c6a-744x1039.png",
+                "artist": "Valentin Gloaguen",
+                "accessibility_text": "Riftbound Unit: Mega-Mech."
+            },
+            "tags": [
+                "Mech",
+                "Bandle City"
+            ],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Mega Mech",
+                "updated_on": "2026-03-19T20:25:47.638488+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8718",
+            "name": "Mind Rune",
+            "riftbound_id": "ogn-089-298",
+            "tcgplayer_id": "652869",
+            "collector_number": 89,
+            "attributes": {
+                "energy": null,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Rune",
+                "supertype": "Basic",
+                "rarity": "Common",
+                "domain": [
+                    "Mind"
+                ]
+            },
+            "text": {
+                "rich": "",
+                "plain": "",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f99aa4874baaebd2e81798c8a3aa01c5900f6d30-744x1039.png",
+                "artist": "Greg Ghielmetti & Leah Chen",
+                "accessibility_text": "Riftbound Rune: Mind Rune."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Mind Rune",
+                "updated_on": "2026-03-19T20:25:47.689598+00:00",
+                "alternate_art": false,
+                "overnumbered": false,
+                "signature": false
+            }
+        },
+        {
+            "id": "69bc5bcbd308c64675ca8719",
+            "name": "Mind Rune (Alternate Art)",
+            "riftbound_id": "ogn-089a-298",
+            "tcgplayer_id": "652870",
+            "collector_number": 89,
+            "attributes": {
+                "energy": null,
+                "might": null,
+                "power": null
+            },
+            "classification": {
+                "type": "Rune",
+                "supertype": "Basic",
+                "rarity": "Showcase",
+                "domain": [
+                    "Mind"
+                ]
+            },
+            "text": {
+                "rich": "",
+                "plain": "",
+                "flavour": null
+            },
+            "set": {
+                "set_id": "OGN",
+                "label": "Origins"
+            },
+            "media": {
+                "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ecf8c8632c728520b51cd4bc79036677e96ebdfd-1488x2078.png",
+                "artist": "Fairfoul",
+                "accessibility_text": "Riftbound Rune: Mind Rune."
+            },
+            "tags": [],
+            "orientation": "portrait",
+            "metadata": {
+                "clean_name": "Mind Rune Alternate Art",
+                "updated_on": "2026-03-19T20:25:47.740887+00:00",
+                "alternate_art": true,
+                "overnumbered": false,
+                "signature": false
+            }
+        }
+    ],
+    "total": 352,
+    "page": 1,
+    "size": 100,
+    "pages": 4
+}
